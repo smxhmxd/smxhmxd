@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**smxhmxd/smxhmxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Saiyed Mohd Ahmad! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/saiyed-mohd-ahmad-93b583203/)
+- [Leetcode](https://leetcode.com/u/sma280201/)
+- [Personal Website](https://smxhmxd.github.io/Portfolio/)
+
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,js,java,php)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css,tailwind)
+
+#### Backend Technologies
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express&perline=3)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,xampp)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode)
+
+
+
+
