@@ -26,6 +26,7 @@ Welcome to my GitHub profile! 🌟
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode)
 
+Watch my contribution graph get eaten by the snake 🐍
 
-
+![Snake animation](https://raw.githubusercontent.com/smxhmxd/smxhmxd/output/github-contribution-grid-snake-dark.svg)
 
